@@ -1,7 +1,7 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  首页|Home: /
+  归档|Archives: /archives
 
 # Content
 excerpt_link: More
@@ -27,4 +27,4 @@ rss:
 google_site_verification: 
 baidu_site_verification: 
 favicon: 
-music: 
+music: http://mp3.haoduoge.com/music7/198199.mp3
